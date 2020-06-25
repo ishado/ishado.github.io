@@ -46,48 +46,6 @@ career-profile:
     summary: |
       Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.
 
-# news:
-#     title: News
-#     intro: |
-        
-    
-#     posts:
-#         - time: June 2020
-#           title: Outstanding Reviewer at CVPR 2020
-
-#         - time: June 2020
-#           title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
-        
-#         - time: February 2020
-#           title: The work done during my internship was accepted as publication at CVPR 2020
-          
-#         - time: July 2019
-#           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
-          
-#         - time: July 2019
-#           title: One paper accepted at ICCV19
-          
-#         - time: January 2019
-#           title: Selected as reviewer for ICCV19
-        
-#         - time: December 2018
-#           title: Selected as reviewer for CVPR19
-        
-#         - time: Sptember 2018
-#           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
-        
-#         - time: July 2018
-#           title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
-        
-#         - time: 2018
-#           title: Paper accepted as poster at ECCV18 in Munich, Germany
-        
-#         - time: 2017
-#           title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
-        
-#         - time: 2017
-#           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
-
 education:
     - degree: Bachelor of Education Technology and Education Section Computer Science Faculty of Specific Education
       university: Zagazig University
