@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: shadodev@gmail.com
     phone: 
-    website: ishado.github.io/publications/ #do not add http://
+    website: ishado.github.io/index.html #do not add http://
     linkedin: ishado
     github: ishado
     gitlab:
@@ -44,241 +44,203 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image procession, one of the biggest research group in Germany in the field, under the supervision of Bjoern Ommer.
-      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+      Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.
 
-news:
-    title: News
-    intro: |
+# news:
+#     title: News
+#     intro: |
         
     
-    posts:
-        - time: June 2020
-          title: Outstanding Reviewer at CVPR 2020
+#     posts:
+#         - time: June 2020
+#           title: Outstanding Reviewer at CVPR 2020
 
-        - time: June 2020
-          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+#         - time: June 2020
+#           title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
         
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
+#         - time: February 2020
+#           title: The work done during my internship was accepted as publication at CVPR 2020
           
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+#         - time: July 2019
+#           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
           
-        - time: July 2019
-          title: One paper accepted at ICCV19
+#         - time: July 2019
+#           title: One paper accepted at ICCV19
           
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
+#         - time: January 2019
+#           title: Selected as reviewer for ICCV19
         
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
+#         - time: December 2018
+#           title: Selected as reviewer for CVPR19
         
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#         - time: Sptember 2018
+#           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
         
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#         - time: July 2018
+#           title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
         
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
+#         - time: 2018
+#           title: Paper accepted as poster at ECCV18 in Munich, Germany
         
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+#         - time: 2017
+#           title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
         
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+#         - time: 2017
+#           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
      
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
+    - degree: Bachelor of Education Technology and Education Section Computer Science Faculty of Specific Education
+      university: Zagazig University
+      time: 2004 - 2008
       details: |
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
+certification:
+     
+    - degree: ICDL
+      university: ECDL Foundation
+      time: 2011
+      details: |
+
+    - degree: CCNA
+      university: Cisco Networking Academy
+      time: 2011
+      details: |
+
+courses:
+     
+    - degree: Professional Government Official program
+      university: From National Training Academy
+      time: 2020
+     
+    - degree: Web hosting course
+      university: From flexcourses.com
+      time: 2019
+     
+    - degree: Training Cyber Mobile
+      university: From TechCampus.com
+      time: 2019
+     
+    - degree: Training how to write a Research Paper
+      university: From TechCampus.com
+      time: 2019
+     
+    - degree: The Training Program for workers in Misr Public Libraries
+      university: From Misr Public Library in Dokkei
+      time: 2016
+     
+    - degree: English Conversation course
+      university: From Saqqara Local Development Center
+      time: 2015
+     
+    - degree: Web Design course
+      university: From IEEE Zagazig
+      time: 2014
+     
+    - degree: English Upgrading course
+      university: From Saqqara Local Development Center
+      time: 2014
+     
+    - degree: The Application of Information Technology in Libraries
+      university: From Misr Public Library in Saqqara Local Development Center
+      time: 2012
+     
+    - degree: Canadian Program in Human Development
+      university: From iqraa training Center for Human Development in Zagazig
+      time: 2011
+     
+    - degree: Canadian Program in Soft Skills Level 1,2,3
+      university: From iqraa training Center for Human Developmenr in Zagazig
+      time: 2011
+     
+    - degree: Oracle Forms Developer 10g Build Internet Applications
+      university: From 1SOLUTION.org Software & training Center in Cairo
+      time: 2010
+     
+    - degree: CCNA course
+      university: From CITA Academy in Zagazig
+      time: 2010
+     
+    - degree: Advanced course in Programming
+      university: From AGC Academy in Zagazig
+      time: 2008
+
+    - degree: Computer maintenance course 
+      university: from the Egyptian Computer Center in Zagazig
+      time: 2006
+
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Senior Software Engineer
       time: 2014 - 2015
+      company: Google, London
       details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
+          - Bullet point
+          - Bullet point
+
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
 
+          - Bullet point
+          - Bullet point
 
-educationcomplete:
-    - degree: Applied Scientists Intern at Amazon AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 - current
-      details: |
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - current
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-          - Deep learning
-          - Hand Gesture
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
-
-
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-    #- role: UI Developer
-      #time: 2012 - 2014
-      #company: Amazon, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
-
-          #- Bullet point
-          #- Bullet point
-
-#projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    #assignments:
-      #- title: Velocity
-        #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      #- title: DevStudio
-        #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      #- title: Tempo
-        #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      #- title: Atom
-        #link: "#"
-        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
-        
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
-
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
-
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
-
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
-
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
-        
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
@@ -303,4 +265,4 @@ skills:
         level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://twitter.com/ishadoi" target="_blank" rel="nofollow">SHADO</a>
