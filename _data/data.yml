@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: shadodev@gmail.com
     phone: 
-    website: ishado.github.io/index.html #do not add http://
+    website: ishado.github.io #do not add http://
     linkedin: ishado
     github: ishado
     gitlab:
@@ -89,14 +89,12 @@ career-profile:
 #           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
 education:
-     
     - degree: Bachelor of Education Technology and Education Section Computer Science Faculty of Specific Education
       university: Zagazig University
       time: 2004 - 2008
       details: |
 
 certification:
-     
     - degree: ICDL
       university: ECDL Foundation
       time: 2011
@@ -108,7 +106,6 @@ certification:
       details: |
 
 courses:
-     
     - degree: Professional Government Official program
       university: From National Training Academy
       time: 2020
@@ -160,12 +157,12 @@ courses:
     - degree: CCNA course
       university: From CITA Academy in Zagazig
       time: 2010
-     
+      
     - degree: Advanced course in Programming
       university: From AGC Academy in Zagazig
       time: 2008
 
-    - degree: Computer maintenance course 
+    - degree: Computer maintenance course
       university: from the Egyptian Computer Center in Zagazig
       time: 2006
 
