@@ -64,8 +64,8 @@ certification:
       details: |
 
 courses:
-    - degree: Professional Government Official program
-      university: From National Training Academy
+    - name: Professional Government Official program
+      place: From National Training Academy
       time: 2020
      
     - degree: Web hosting course
