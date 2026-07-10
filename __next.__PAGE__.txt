@@ -1,18 +1,18 @@
 1:"$Sreact.fragment"
-2:I[96433,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"PageBackground"]
-3:I[2971,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"Header"]
-4:I[77258,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"Hero"]
-5:I[95116,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"About"]
-6:I[34506,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"Experience"]
-7:I[52312,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"AchievementsSection"]
-8:I[13659,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"Skills"]
-9:I[35686,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"ProjectsSection"]
-a:I[16358,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"EducationSection"]
-b:I[2508,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"CoursesSection"]
-c:I[51756,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"CvSection"]
-d:I[63446,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"ContactSection"]
-e:I[13642,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/0r~~lezss-wnq.js"],"Footer"]
+2:I[96433,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"PageBackground"]
+3:I[2971,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"Header"]
+4:I[77258,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"Hero"]
+5:I[95116,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"About"]
+6:I[34506,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"Experience"]
+7:I[52312,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"AchievementsSection"]
+8:I[13659,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"Skills"]
+9:I[35686,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"ProjectsSection"]
+a:I[16358,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"EducationSection"]
+b:I[2508,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"CoursesSection"]
+c:I[51756,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"CvSection"]
+d:I[63446,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"ContactSection"]
+e:I[13642,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js","/_next/static/chunks/01r.qzl_xu..k.js"],"Footer"]
 f:I[97367,["/_next/static/chunks/09v7nbj9cdf4e.js","/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"className":"relative flex-1","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}],["$","$Le",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/0r~~lezss-wnq.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_rAwThF6awbqBLvRSGEwZ"}
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","$L3",null,{}],["$","main",null,{"className":"relative flex-1","children":[["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}],["$","$Le",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/01r.qzl_xu..k.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"EeR3FB_lsqaoAMNQBUGc0"}
 11:null
